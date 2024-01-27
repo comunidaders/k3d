@@ -42,7 +42,7 @@ Para criar o cluster e instalar os serviços necessários (Nginx Ingress Control
 ### Docker
 - **Instalação Docker:**
   ```bash
-  curl -fsSL https;//get.docker.com | bash
+  curl -fsSL https://get.docker.com | bash
   ```
 
 ### Helm
